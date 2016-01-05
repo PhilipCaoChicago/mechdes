@@ -1,0 +1,67 @@
+#+Title: Mechanism Design 2016
+#+Author: Christoph Schottmüller
+#+Institute: University of Copenhagen, Department of Economics
+
+* Organization
+
+The official course description (including schedule, exam requirements etc.) can be found [[http://kurser.ku.dk/course/a%c3%98kk08201u/2015-2016][here]].  Here is a tentative lecture schedule.
+
+Lectures: Friday 12.00-15.00, CSS 2-1-13
+
+If you have not taken Micro C (or forgotten most of it...), you might 
+want to (re-)read chapters 1.1-1.3 and 3.1-3.2 in Robert Gibbons' "Game 
+Theory" book before the course starts. You should also familiarize 
+yourself with the maths <a href="http://www.econ.ku.dk/schottmueller/teaching/mech_des/mechdes2015/math.pdf">handout</a>.
+
+** Midterm
+The midterm is a take home exam. You have to pass the midterm in order 
+to be admitted to the final exam. The midterm should be done in groups 
+of up to three people. Deadline is tba. 
+
+
+** Exam
+The final exam is a take home exam. The date is 26th of May 2015 at 
+10.00 to 2nd of June 2015 at 10.00. You cannot work in groups in the 
+final exam.
+
+** Literature
+The main text book for the first part is
+- Mas-Colell, Andreu, Michael Dennis Whinston, and Jerry R. Green. 
+Microeconomic theory. New York: Oxford University Press, 1995. only 
+chapter 23 
+
+It is not absolutely necessary to buy the book (though it is a must have
+ for any serious micro theorist) and you might want to wait until after 
+the first lecture. Another very interesting book (though with a slightly
+ different approach)  is 
+- Tilman Börgers. An Introduction to the Theory of Mechanism Design. Oxford University Press 2015 
+
+
+We will also cover (parts of) a few papers. A tentative list of papers 
+is the following (you have to use the on campus internet or connect via 
+VPN in order to download the papers for free):
+
+- Bergemann, Dirk, and Stephen Morris. "Robust mechanism design." Econometrica 73.6 (2005): 1771-1813.[[http://www.jstor.org/stable/3598751][link]]
+- Cremer, Jacques, and Richard P. McLean. "Full extraction of the 
+surplus in Bayesian and dominant strategy auctions." Econometrica 
+(1988): 1247-1257. http://www.jstor.org/stable/1913096
+- Moldovanu, Benny, and Aner Sela. "The optimal allocation of prizes in contests." American Economic Review (2001): 542-558. http://www.jstor.org/stable/pdf/2677878.pdf
+- Jehiel, Philippe, Benny Moldovanu, and Ennio Stacchetti. "How (not) 
+to sell nuclear weapons." The American Economic Review (1996): 814-829. http://www.jstor.org/stable/2118306
+- Martimort, David, and Lars Stole. "Market participation in delegated and intrinsic common-agency games." Rand Journal of Economics 40.1 (2009): 78-102. http://onlinelibrary.wiley.com/doi/10.1111/j.1756-2171.2008.00056.x/full
+- Gale, David, and Lloyd S. Shapley. "College admissions and the 
+stability of marriage." The American Mathematical Monthly 69.1 (1962): 
+9-15. http://www.jstor.org/stable/2312726
+- Roth, Alvin E. "The economist as engineer: Game theory, experimentation, and computation as tools for design economics." Econometrica 70.4 (2002): 1341-1378. http://onlinelibrary.wiley.com/doi/10.1111/1468-0262.00335/full
+- Roth, Alvin E., Tayfun Sönmez, and M. Utku Ünver. "Kidney exchange." The Quarterly Journal of Economics
+119.2 (2004): 457-488.http://qje.oxfordjournals.org/content/119/2/457.short
+- Abdulkadiroglu, Atila, and Tayfun Sönmez. "School choice: A 
+mechanism design approach." The American Economic Review (2003): 
+729-747. http://www.jstor.org/stable/3132114
+
+* Material
+** Lecture slides
+- [[https://github.com/schottmueller/mechdes/blob/gh-pages/mech_des_01.pdf][L01]]
+
+** Other material
+- Maths for Mechanism Design
