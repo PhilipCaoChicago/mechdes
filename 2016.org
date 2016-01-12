@@ -88,17 +88,17 @@ We will also cover (parts of) a few papers. A tentative list of papers is the fo
 -  reading: MWG p. 897-903 and Martimort and Stole (2009) p.84-86
 
 
-** W7: Optimal Bayesian mechanisms in quasilinear environments II
+** W7: work on midterm (no lecture, Good Friday)
+
+
+** W8: Optimal Bayesian mechanisms in quasilinear environments II
 -  principal-agent problem with hidden information
 -  optimal auctions and revenue equivalence
 -  reading: MWG p. 889-891 and example 23.F.2
-** W8: Contests and Externalities on other players 
+** W9: Contests and Externalities on other players 
 -  Optimal contests
 -  how (not) to sell nuclear weapons
 -  reading: Moldovanu and Sella (2001), Jehiel et al. (1996) section I,II,III,V
-
-
-** W9: work on midterm (no lecture, Good Friday)
 ** W10: Solution to midterm
 -  going through some exercises of the midterm
 
