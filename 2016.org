@@ -11,7 +11,7 @@ Lectures: Friday 12.00-15.00, CSS 2-1-12
 If you have not taken Micro C (or forgotten most of it...), you might want to (re-)read chapters 1.1-1.3 and 3.1-3.2 in Robert Gibbons' "Game Theory" book before the course starts. You should also familiarize yourself with the maths [[https://github.com/schottmueller/mechdes/files/78397/math.pdf][handout]].
 
 ** Midterm
-The midterm is a take home exam. You have to pass the midterm in order to be admitted to the final exam. The midterm should be done in groups of up to three people. Deadline is tba. 
+The midterm is a take home exam. You have to pass the midterm in order to be admitted to the final exam. The midterm should be done in groups of up to three people. Deadline is March 30 18:00. 
 
 
 ** Exam
@@ -41,6 +41,7 @@ We will also cover (parts of) a few papers. A tentative list of papers is the fo
 * Material
 ** Lecture slides
 - [[https://github.com/schottmueller/mechdes/files/78366/mech_des_01.pdf][L01]]
+- [[https://github.com/schottmueller/mechdes/files/128119/L02_revelation_GibbardSatterthwaite.pdf][L02]]
 
 ** Other material
 - [[https://github.com/schottmueller/mechdes/files/78397/math.pdf][Maths]] for Mechanism Design
@@ -89,18 +90,18 @@ We will also cover (parts of) a few papers. A tentative list of papers is the fo
 
 
 ** W7: work on midterm (no lecture, Good Friday)
+** W8: Solution to midterm
+-  going through some exercises of the midterm
 
 
-** W8: Optimal Bayesian mechanisms in quasilinear environments II
+** W9: Optimal Bayesian mechanisms in quasilinear environments II
 -  principal-agent problem with hidden information
 -  optimal auctions and revenue equivalence
 -  reading: MWG p. 889-891 and example 23.F.2
-** W9: Contests and Externalities on other players 
+** W10: Contests and Externalities on other players 
 -  Optimal contests
 -  how (not) to sell nuclear weapons
 -  reading: Moldovanu and Sella (2001), Jehiel et al. (1996) section I,II,III,V
-** W10: Solution to midterm
--  going through some exercises of the midterm
 
 
 
