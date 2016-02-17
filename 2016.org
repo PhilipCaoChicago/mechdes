@@ -11,12 +11,11 @@ Lectures: Friday 12.00-15.00, CSS 2-1-12
 If you have not taken Micro C (or forgotten most of it...), you might want to (re-)read chapters 1.1-1.3 and 3.1-3.2 in Robert Gibbons' "Game Theory" book before the course starts. You should also familiarize yourself with the maths [[https://github.com/schottmueller/mechdes/files/78397/math.pdf][handout]].
 
 ** Midterm
-The midterm is a take home exam. You have to pass the midterm in order to be admitted to the final exam. The midterm should be done in groups of up to three people. Deadline is March 30 18:00. 
+The midterm is a take home exam. You have to pass the midterm in order to be admitted to the final exam. The midterm should be done in groups of up to three people. Deadline is March 30 18:00. The exercises will be made available around March 18.
 
 
 ** Exam
-The final exam is a take home exam. The date is tba. You cannot work in groups in the 
-final exam.
+The final exam is a take home exam. The date is tba. You cannot work in groups in the final exam.
 
 ** Literature
 The main text book for the first part is
@@ -42,6 +41,7 @@ We will also cover (parts of) a few papers. A tentative list of papers is the fo
 ** Lecture slides
 - [[https://github.com/schottmueller/mechdes/files/78366/mech_des_01.pdf][L01]]
 - [[https://github.com/schottmueller/mechdes/files/128119/L02_revelation_GibbardSatterthwaite.pdf][L02]]
+- [[https://github.com/schottmueller/mechdes/files/134281/L02_revelation_GibbardSatterthwaite.pdf][L03]]
 
 ** Other material
 - [[https://github.com/schottmueller/mechdes/files/78397/math.pdf][Maths]] for Mechanism Design
