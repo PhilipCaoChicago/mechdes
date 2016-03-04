@@ -48,6 +48,7 @@ We will also cover (parts of) a few papers. A tentative list of papers is the fo
 
 ** Other material
 - [[https://github.com/schottmueller/mechdes/files/148574/math.pdf][Maths]] for Mechanism Design
+- [[https://github.com/schottmueller/mechdes/files/158922/envelope_thm_non_linear_pricing.pdf][Handout]] on envelope theorem and single crossing in the non-linear pricing model
 
 
 * Tentative lecture schedule
@@ -89,7 +90,7 @@ We will also cover (parts of) a few papers. A tentative list of papers is the fo
 ** W6: Optimal Bayesian mechanisms in quasilinear environments I
 -  efficiency and timing
 -  optimal non-linear pricing
--  reading: MWG p. 897-903 and Martimort and Stole (2009) p.84-86
+-  reading: handout on envelope theorem etc. and MWG p. 897-903 and Martimort and Stole (2009) p.84-86
 
 
 ** W7: work on midterm (no lecture, Good Friday)
