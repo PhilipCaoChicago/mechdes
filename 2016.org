@@ -42,7 +42,7 @@ We will also cover (parts of) a few papers. A tentative list of papers is the fo
 - [[https://github.com/schottmueller/mechdes/files/78366/mech_des_01.pdf][L01]]
 - [[https://github.com/schottmueller/mechdes/files/128119/L02_revelation_GibbardSatterthwaite.pdf][L02]]
 - [[https://github.com/schottmueller/mechdes/files/134286/mech_des03_dom_strat1.pdf][L03]]
-- [[https://github.com/schottmueller/mechdes/files/158343/L04expected-externality-mech.pdf][L04]]
+- [[https://github.com/schottmueller/mechdes/files/158410/L04expected-externality-mech.pdf][L04]]
 - [[https://github.com/schottmueller/mechdes/files/142886/L05myerson_satterthwaite.pdf][L05]]
 
 ** Other material
