@@ -30,15 +30,15 @@ It is not absolutely necessary to buy the book (though it is a classic for serio
 We will also cover (parts of) a few papers. A tentative list of papers is the following (you have to use the on campus internet or connect via VPN in order to download the papers for free):
 
 - Bergemann, Dirk, and Stephen Morris. "Robust mechanism design." Econometrica 73.6 (2005): 1771-1813.[[http://www.jstor.org/stable/3598751][link]]
-- ﻿Milgrom, Paul and Segal, Ilya. "Envelope Theorems for Arbitrary Choice Sets."Econometrica 70.2 (2002): 583--601. http://dx.doi.org/10.1111/1468-0262.00296
+- ﻿Milgrom, Paul and Segal, Ilya. "Envelope Theorems for Arbitrary Choice Sets." Econometrica 70.2 (2002): 583--601. http://dx.doi.org/10.1111/1468-0262.00296
 - Cremer, Jacques, and Richard P. McLean. "Full extraction of the surplus in Bayesian and dominant strategy auctions." Econometrica (1988): 1247-1257. http://www.jstor.org/stable/1913096
 - Moldovanu, Benny, and Aner Sela. "The optimal allocation of prizes in contests." American Economic Review (2001): 542-558. http://www.jstor.org/stable/pdf/2677878.pdf
-- Jehiel, Philippe, Benny Moldovanu, and Ennio Stacchetti. "How (not) to sell nuclear weapons." The American Economic Review (1996): 814-829. http://www.jstor.org/stable/2118306
+- Jehiel, Philippe, Benny Moldovanu, and Ennio Stacchetti. "How (not) to sell nuclear weapons." American Economic Review (1996): 814-829. http://www.jstor.org/stable/2118306
 - Martimort, David, and Lars Stole. "Market participation in delegated and intrinsic common-agency games." Rand Journal of Economics 40.1 (2009): 78-102. http://onlinelibrary.wiley.com/doi/10.1111/j.1756-2171.2008.00056.x/full
-- Gale, David, and Lloyd S. Shapley. "College admissions and the stability of marriage." The American Mathematical Monthly 69.1 (1962): 9-15. http://www.jstor.org/stable/2312726
+- Gale, David, and Lloyd S. Shapley. "College admissions and the stability of marriage." American Mathematical Monthly 69.1 (1962): 9-15. http://www.jstor.org/stable/2312726
 - Roth, Alvin E. "The economist as engineer: Game theory, experimentation, and computation as tools for design economics." Econometrica 70.4 (2002): 1341-1378. http://onlinelibrary.wiley.com/doi/10.1111/1468-0262.00335/full
-- Roth, Alvin E., Tayfun Sönmez, and M. Utku Ünver. "Kidney exchange." The Quarterly Journal of Economics 119.2 (2004): 457-488.http://qje.oxfordjournals.org/content/119/2/457.short
-- Abdulkadiroglu, Atila, and Tayfun Sönmez. "School choice: A mechanism design approach." The American Economic Review (2003): 729-747. http://www.jstor.org/stable/3132114
+- Roth, Alvin E., Tayfun Sönmez, and M. Utku Ünver. "Kidney exchange." Quarterly Journal of Economics 119.2 (2004): 457-488.http://qje.oxfordjournals.org/content/119/2/457.short
+- Abdulkadiroglu, Atila, and Tayfun Sönmez. "School choice: A mechanism design approach." American Economic Review (2003): 729-747. http://www.jstor.org/stable/3132114
 
 * Material
 ** Lecture slides
@@ -51,7 +51,7 @@ We will also cover (parts of) a few papers. A tentative list of papers is the fo
 
 ** Other material
 - [[https://github.com/schottmueller/mechdes/files/148574/math.pdf][Maths]] for Mechanism Design
-- [[https://github.com/schottmueller/mechdes/files/158922/envelope_thm_non_linear_pricing.pdf][Handout]] on envelope theorem and single crossing in the non-linear pricing model
+- [[https://github.com/schottmueller/mechdes/files/179481/envelope_thm_non_linear_pricing.pdf][Handout]] on envelope theorem and single crossing in the non-linear pricing model
 
 
 * Tentative lecture schedule
