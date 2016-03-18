@@ -42,12 +42,13 @@ We will also cover (parts of) a few papers. A tentative list of papers is the fo
 
 * Material
 ** Lecture slides
-- [[https://github.com/schottmueller/mechdes/files/78366/mech_des_01.pdf][L01]]
-- [[https://github.com/schottmueller/mechdes/files/128119/L02_revelation_GibbardSatterthwaite.pdf][L02]]
-- [[https://github.com/schottmueller/mechdes/files/134286/mech_des03_dom_strat1.pdf][L03]]
-- [[https://github.com/schottmueller/mechdes/files/158410/L04expected-externality-mech.pdf][L04]]
-- [[https://github.com/schottmueller/mechdes/files/158909/L05myerson_satterthwaite.pdf][L05]]
-- [[https://github.com/schottmueller/mechdes/files/158913/mech_des06_non_lin_pricing.pdf][L06]]
+- [[https://github.com/schottmueller/mechdes/files/78366/mech_des_01.pdf][W01]]
+- [[https://github.com/schottmueller/mechdes/files/128119/L02_revelation_GibbardSatterthwaite.pdf][W02]]
+- [[https://github.com/schottmueller/mechdes/files/134286/mech_des03_dom_strat1.pdf][W03]]
+- [[https://github.com/schottmueller/mechdes/files/158410/L04expected-externality-mech.pdf][W04]]
+- [[https://github.com/schottmueller/mechdes/files/158909/L05myerson_satterthwaite.pdf][W05]]
+- [[https://github.com/schottmueller/mechdes/files/158913/mech_des06_non_lin_pricing.pdf][W06]]
+- [[https://github.com/schottmueller/mechdes/files/180084/mech_des_07_principalagent.pdf][W09]]
 
 ** Other material
 - [[https://github.com/schottmueller/mechdes/files/148574/math.pdf][Maths]] for Mechanism Design
