@@ -88,12 +88,12 @@ We will also cover (parts of) a few papers. A tentative list of papers is the fo
 ** W5: Participation constraints
 -  Myerson-Satterthwaite theorem
 -  reading: 887-889 and MWG 23.E
--  optional extra reading: Milgrom and Segal (2002)
+-  optional extra reading on envelope theorems: Milgrom and Segal (2002)
 
 ** W6: Optimal Bayesian mechanisms in quasilinear environments I
 -  efficiency and timing
 -  optimal non-linear pricing
--  reading: handout on envelope theorem etc. and MWG p. 897-903 and Martimort and Stole (2009) p.84-86
+-  reading: handout on envelope theorem etc., MWG p. 897-900 and Martimort and Stole (2009) p.84-86 (read the rest of the paper if you are interested)
 
 
 ** W7: work on midterm (no lecture, Good Friday)
@@ -104,11 +104,11 @@ We will also cover (parts of) a few papers. A tentative list of papers is the fo
 ** W9: Optimal Bayesian mechanisms in quasilinear environments II
 -  principal-agent problem with hidden information
 -  optimal auctions and revenue equivalence
--  reading: MWG p. 889-891 and example 23.F.2
+-  reading: MWG p. 889-891 and 900-906 (also 906-910 for those who are interested)
 ** W10: Contests and Externalities on other players 
 -  Optimal contests
 -  how (not) to sell nuclear weapons
--  reading: Moldovanu and Sella (2001), Jehiel et al. (1996) section I,II,III,V
+-  reading: Moldovanu and Sella (2001), Jehiel et al. (1996); sections I,II,III,V in both papers (also section IV for those are interested)
 
 
 
