@@ -49,6 +49,8 @@ We will also cover (parts of) a few papers. A tentative list of papers is the fo
 - [[https://github.com/schottmueller/mechdes/files/158909/L05myerson_satterthwaite.pdf][W05]]
 - [[https://github.com/schottmueller/mechdes/files/158913/mech_des06_non_lin_pricing.pdf][W06]]
 - [[https://github.com/schottmueller/mechdes/files/180084/mech_des_07_principalagent.pdf][W09]]
+- [[https://github.com/schottmueller/mechdes/files/200731/mech_des08_nuclear.pdf][W10]]
+- [[https://github.com/schottmueller/mechdes/files/200732/mechdes09_correlated_types.pdf][W11]]
 
 ** Other material
 - [[https://github.com/schottmueller/mechdes/files/148574/math.pdf][Maths]] for Mechanism Design
