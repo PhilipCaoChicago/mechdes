@@ -13,11 +13,11 @@ If you have not taken Micro C (or forgotten most of it...), you might want to (r
 ** Midterm
 The midterm is a take home exam. You have to pass the midterm in order to be admitted to the final exam. The midterm should be done in groups of up to three people. Deadline is March 30 18:00. The exercises are [[https://github.com/schottmueller/mechdes/files/181807/midterm.pdf][available]]. [[https://github.com/schottmueller/mechdes/files/197540/Mechanism.DesignF16-web.xlsx][List]] of people who passed the midterm.
 
-/Please submit the midterm via email to/ christoph.schottmueller@econ.ku.dk
-
-
 ** Exam
 The final exam is a take home exam. The date is May 21 at 10.00am to May 28 at 10.00am. You cannot work in groups in the final exam.
+
+** Internal Evaluation
+Thank you for participating in the internal evaluation. Here are the [[https://github.com/schottmueller/mechdes/files/212663/internal.evaluation.pdf][results]] (unfortunately in Danish only).
 
 ** Literature
 The main text book for the first part is
