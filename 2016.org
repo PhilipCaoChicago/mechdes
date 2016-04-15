@@ -2,6 +2,10 @@
 #+Author: Christoph Schottmüller
 #+Institute: University of Copenhagen, Department of Economics
 
+* Announcements
+- There won't be a lecture on April 22 because of a public holiday.
+- The internal evaluation results are posted below.
+
 * Organization
 
 The official course description (including schedule, exam requirements etc.) can be found [[http://kurser.ku.dk/course/a%C3%98kk08201u/2015-2016][here]].  A tentative lecture schedule is at the end of the page.
