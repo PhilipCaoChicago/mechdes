@@ -53,12 +53,13 @@ We will also cover (parts of) a few papers. A tentative list of papers is the fo
 - [[https://github.com/schottmueller/mechdes/files/158909/L05myerson_satterthwaite.pdf][W05]] Myerson Satterthwaite
 - [[https://github.com/schottmueller/mechdes/files/158913/mech_des06_non_lin_pricing.pdf][W06]] Non-linear Pricing
 - [[https://github.com/schottmueller/mechdes/files/180084/mech_des_07_principalagent.pdf][W09]] Principal Agent / Auctions
-- [[https://github.com/schottmueller/mechdes/files/200731/mech_des08_nuclear.pdf][W10]] Externalities / Contests
+- [[https://github.com/schottmueller/mechdes/files/200731/mech_des08_nuclear.pdf][W10]] Externalities / Contests 
 - [[https://github.com/schottmueller/mechdes/files/200732/mechdes09_correlated_types.pdf][W11]] Correlated Types
 
 ** Other material
 - [[https://github.com/schottmueller/mechdes/files/148574/math.pdf][Maths]] for Mechanism Design
 - [[https://github.com/schottmueller/mechdes/files/179481/envelope_thm_non_linear_pricing.pdf][Handout]] on envelope theorem and single crossing in the non-linear pricing model
+- Contests with risk averse contestants, jupyter [[https://github.com/schottmueller/mechdes/blob/master/webmaterial/Contest-design.ipynb][notebook]]
 
 
 * Tentative lecture schedule
