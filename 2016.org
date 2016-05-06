@@ -3,6 +3,7 @@
 #+Institute: University of Copenhagen, Department of Economics
 
 * Announcements
+- Note that May 6 is NOT a holiday, i.e. there will be a lecture.
 - There won't be a lecture on April 22 because of a public holiday.
 - The internal evaluation results are posted below.
 
