@@ -56,7 +56,7 @@ We will also cover (parts of) a few papers. A tentative list of papers is the fo
 - [[https://github.com/schottmueller/mechdes/files/180084/mech_des_07_principalagent.pdf][W09]] Principal Agent / Auctions
 - [[https://github.com/schottmueller/mechdes/files/200731/mech_des08_nuclear.pdf][W10]] Externalities / Contests 
 - [[https://github.com/schottmueller/mechdes/files/242001/mechdes09_correlated_types.pdf][W11]] Correlated Types
-- [[https://github.com/schottmueller/mechdes/files/234708/robust_mech_des.pdf][W12]] Robust Mechanism Design
+- [[https://github.com/schottmueller/mechdes/files/251843/robust_mech_des.pdf][W12]] Robust Mechanism Design
 - [[https://github.com/schottmueller/mechdes/files/234711/stable_matching.pdf][W13]] Stable Matching
 - [[https://github.com/schottmueller/mechdes/files/234712/school_choice.pdf][W14]] School Choice
 
