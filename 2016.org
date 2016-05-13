@@ -65,6 +65,7 @@ We will also cover (parts of) a few papers. A tentative list of papers is the fo
 - [[https://github.com/schottmueller/mechdes/files/148574/math.pdf][Maths]] for Mechanism Design
 - [[https://github.com/schottmueller/mechdes/files/179481/envelope_thm_non_linear_pricing.pdf][Handout]] on envelope theorem and single crossing in the non-linear pricing model
 - Contests with risk averse contestants, jupyter [[http://nbviewer.jupyter.org/github/schottmueller/mechdes/blob/master/webmaterial/Contest-design.ipynb][notebook]]
+- Some Python code (with explanations) on [[https://github.com/schottmueller/gametheory/blob/master/matching.org][school choice problems]].
 
 
 * Tentative lecture schedule
