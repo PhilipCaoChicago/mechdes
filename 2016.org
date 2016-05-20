@@ -59,7 +59,7 @@ We will also cover (parts of) a few papers. A tentative list of papers is the fo
 - [[https://github.com/schottmueller/mechdes/files/242001/mechdes09_correlated_types.pdf][W11]] Correlated Types
 - [[https://github.com/schottmueller/mechdes/files/262794/robust_mech_des.pdf][W12]] Robust Mechanism Design
 - [[https://github.com/schottmueller/mechdes/files/262793/stable_matching.pdf][W13]] Stable Matching
-- [[https://github.com/schottmueller/mechdes/files/234712/school_choice.pdf][W14]] School Choice
+- [[https://github.com/schottmueller/mechdes/files/274140/school_choice.pdf][W14]] School Choice
 
 ** Other material
 - [[https://github.com/schottmueller/mechdes/files/148574/math.pdf][Maths]] for Mechanism Design
