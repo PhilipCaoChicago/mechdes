@@ -3,6 +3,7 @@
 #+Institute: University of Copenhagen, Department of Economics
 
 * Announcements
+- Several people asked about the page limit in the exam: Yes, it is actual pages (not counting the cover page). Remember two things: First, we just want to see how you got to your solution and that you know what you are doing (we don't need to see everything you ever calculated). Second, space eating calculations are mainly required in exercise 1 (there is hardly anything to calculate in 2 and 3).
 - There will be a make up lecture on May 20 (regular time and place) as 2 lectures fell prey to holidays.
 - Note that May 6 is NOT a holiday, i.e. there will be a lecture.
 - There won't be a lecture on April 22 because of a public holiday.
